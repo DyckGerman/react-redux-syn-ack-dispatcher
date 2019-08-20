@@ -1,0 +1,24 @@
+{
+  "name": "react-redux-syn-ack-dispatcher",
+  "version": "0.0.9",
+  "description": "Robust easy to read package for winners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"tests pass, I checked\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DyckGerman/react-redux-syn-ack-dispatcher.git"
+  },
+  "keywords": [
+    "robust",
+    "message-brocker",
+    "runtime-inmemory-bus"
+  ],
+  "author": "Hyper Dvelopersky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyckGerman/react-redux-syn-ack-dispatcher/issues"
+  },
+  "homepage": "https://github.com/DyckGerman/react-redux-syn-ack-dispatcher#readme"
+}
