@@ -16,7 +16,6 @@ import {
     compose,
 } from 'lodash/fp';
 
-import { isPending } from '@rwc/utils/redux';
 
 /**
  * Make diff triggers idempotent again!
